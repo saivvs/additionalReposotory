@@ -1,0 +1,11 @@
+skip
+html
+css
+boststrap
+react
+javascript
+mobx
+python
+fluter
+native
+
